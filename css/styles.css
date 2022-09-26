@@ -1382,7 +1382,10 @@ progress {
     flex: 0 0 auto;
     width: 33.33333333%;
   }
-
+  .col-lg-44 {
+    flex: 0 0 auto;
+    
+  }
   .col-lg-5 {
     flex: 0 0 auto;
     width: 41.66666667%;
@@ -11305,7 +11308,7 @@ p {
 }
 .page-section h2.section-heading, .page-section .section-heading.h2 {
   font-size: 2.5rem;
-  margin-top: 0rem;
+  margin-top: 5rem;
   margin-bottom: 1rem;
 }
 
@@ -11816,9 +11819,15 @@ section#contact form#contactForm :-ms-input-placeholder {
   text-align: center;
   font-size: 0.9rem;
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  background-color: rgb(25, 135, 84, 0.75);
 }
 
-.my-3 .text-center .enfant {
-margin-bottom: 7rem;
+.prog{
+  position: absolute;
+margin-top: 10 rem;
+}
 
+.aze {
+
+  margin-bottom: 15rem;
 }
